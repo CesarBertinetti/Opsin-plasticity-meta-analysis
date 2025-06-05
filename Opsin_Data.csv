@@ -1,0 +1,575 @@
+﻿Species,ID,Study,Sample,Author,Family,Opsin_Class,Opsin_Gene,Treatment,Type,"Exposure
+_days",Age_dph,Significance,Mean1,SD1,N1,Mean2,SD2,N2,Dval
+Cichla monoculus,81334,1,1,Escobar-Camacho et al. 2019,Cichlidae,sws2,sws2b,light,reared,360,360,NS,0.0246,0.0174,4,0.026,0.0072,3,NA
+Cichla monoculus,81334,1,1,Escobar-Camacho et al. 2019,Cichlidae,sws2,sws2a,light,reared,360,360,NS,0.2962,0.2015,4,0.4518,0.0687,3,NA
+Cichla monoculus,81334,1,1,Escobar-Camacho et al. 2019,Cichlidae,rh2,rh2ab,light,reared,360,360,NS,0.3838,0.2206,4,0.4086,0.0391,3,NA
+Cichla monoculus,81334,1,1,Escobar-Camacho et al. 2019,Cichlidae,rh2,rh2aa,light,reared,360,360,NS,0.0627,0.0394,4,0.0469,0.0061,3,NA
+Cichla monoculus,81334,1,1,Escobar-Camacho et al. 2019,Cichlidae,lws,lws,light,reared,360,360,NS,4,2.4422,4,3.7833,0.4778,3,NA
+Cichla monoculus,81334,1,1,Escobar-Camacho et al. 2019,Cichlidae,rh1,rh1,light,reared,360,360,NS,24.6701,1.8867,4,25.1523,3.7591,3,NA
+Amphilophus citrinellus ,61819,2,1,Karagic et al. 2022,Cichlidae,sws1,sws1,hormone,reared,14,28,NS,0.0599,0.0353,8,0.0267,0.0246,8,NA
+Amphilophus citrinellus ,61819,2,1,Karagic et al. 2022,Cichlidae,sws2,sws2a,hormone,reared,14,28,NS,0.0535,0.0289,8,0.0321,0.0203,8,NA
+Amphilophus citrinellus ,61819,2,1,Karagic et al. 2022,Cichlidae,sws2,rh2ab,hormone,reared,14,28,S,0.0342,0.0524,8,0.1529,0.0588,8,NA
+Amphilophus citrinellus ,61819,2,1,Karagic et al. 2022,Cichlidae,rh2,rh2a,hormone,reared,14,28,S,0.1528,0.1139,8,0,0,8,NA
+Amphilophus citrinellus ,61819,2,1,Karagic et al. 2022,Cichlidae,rh2,rh2b,hormone,reared,14,28,S,0.4417,0.0222,8,0.3333,0.0583,8,NA
+Amphilophus citrinellus ,61819,2,1,Karagic et al. 2022,Cichlidae,lws,lws,hormone,reared,14,28,S,0.2556,0.1,8,0.4528,0.0611,8,NA
+Oncorhynchus tshawytscha,74940,3,1,Flamarique et al. 2019,Salmonidae,sws1,sws1,light,reared,30,70,NS,20.3,1.68,8,19.8,2.11,8,NA
+Oncorhynchus tshawytscha,74940,3,1,Flamarique et al. 2019,Salmonidae,lws,lws,light,reared,30,70,NS,19.6,2.51,8,19.1,1.84,8,NA
+Oncorhynchus tshawytscha,74940,3,1,Flamarique et al. 2019,Salmonidae,rh2,rh2,light,reared,30,70,NS,18.9,2.25,8,19.3,1.96,8,NA
+Oncorhynchus tshawytscha,74940,3,1,Flamarique et al. 2019,Salmonidae,sws2,sws2,light,reared,30,70,NS,8.13,1.82,8,8.98,2.11,8,NA
+Maylandia zebra,106582,4,1,Dalton et al. 2015,Cichlidae,sws1,sws1,light,reared,180,180,S,0.4989,0.2231,5,1.0177,0.2529,5,NA
+Maylandia zebra,106582,4,1,Dalton et al. 2015,Cichlidae,sws2,sws2b,light,reared,180,180,NS,0.2195,0.1487,5,0.3525,0.3272,5,NA
+Maylandia zebra,106582,4,1,Dalton et al. 2015,Cichlidae,rh2,rh2b,light,reared,180,180,S,0.3925,0.1636,5,0.9712,0.2975,5,NA
+Maylandia zebra,106582,4,1,Dalton et al. 2015,Cichlidae,rh2,rh2ab,light,reared,180,180,S,0.2528,0.1785,5,0.2129,0.1785,5,NA
+Maylandia zebra,106582,4,1,Dalton et al. 2015,Cichlidae,rh2,rh2aa,light,reared,180,180,NS,1.949,1.0561,5,2.3947,0.238,5,NA
+Maylandia zebra,106582,4,1,Dalton et al. 2015,Cichlidae,lws,lws,light,reared,180,180,S,0.3725,0.2826,5,0.9845,1.1602,5,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws1,sws1,light,reared,7,7,S,0.2976,0.1361,6,0.0709,0.0471,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws2,sws2b,light,reared,7,7,S,0.0012,0.0004,6,0.1307,0.0467,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws2,sws2a,light,reared,7,7,S,0,0,6,0.0523,0.0353,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,rh2,rh2b,light,reared,7,7,S,0.2349,0.0554,6,0.0187,0.0206,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,rh2,rh2ab,light,reared,7,7,S,0.4059,0.0692,6,0.4983,0.031,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,lws,lws,light,reared,7,7,S,0.0603,0.0266,6,0.229,0.0596,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws1,sws1,light,reared,14,14,S,0.1273,0.0169,6,0.0327,0.0657,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws2,sws2b,light,reared,14,14,S,0.0029,0.0011,6,0.1766,0.0584,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws2,sws2a,light,reared,14,14,S,0.0002,0.0005,6,0.0657,0.0591,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,rh2,rh2b,light,reared,14,14,S,0.1916,0.0122,6,0.0717,0.0528,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,rh2,rh2ab,light,reared,14,14,S,0.5784,0.0442,6,0.4355,0.1371,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,lws,lws,light,reared,14,14,S,0.0996,0.0367,6,0.2179,0.0483,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws1,sws1,light,reared,14,180,NS,0.0136,0.0071,5,0.0001,0.0001,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws2,sws2b,light,reared,14,180,S,0.2972,0.2911,5,0.0456,0.1006,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,sws2,sws2a,light,reared,14,180,S,0.0046,0.0043,5,0.0821,0.0517,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,rh2,rh2b,light,reared,14,180,S,0.1129,0.0358,5,0.002,0.0048,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,rh2,rh2ab,light,reared,14,180,S,0.3525,0.1971,5,0.5731,0.1412,6,NA
+Amphilophus astorquii ,676247,5,1,Härer et al. 2017,Cichlidae,lws,lws,light,reared,14,180,NS,0.2192,0.181,5,0.2972,0.1381,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws1,sws1,light,reared,7,7,S,0.1783,0.0572,6,0.0058,0.0065,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws2,sws2b,light,reared,7,7,NS,0.0024,0.0006,6,0.0137,0.0056,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws2,sws2a,light,reared,7,7,S,0,0,6,0.1661,0.0594,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,rh2,rh2b,light,reared,7,7,S,0.233,0.0225,6,0.0007,0.0003,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,rh2,rh2ab,light,reared,7,7,NS,0.4273,0.0636,6,0.4651,0.0361,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,lws,lws,light,reared,7,7,S,0.1591,0.0323,6,0.3486,0.0589,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws1,sws1,light,reared,14,14,S,0.1151,0.0244,6,0.0009,0.0003,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws2,sws2b,light,reared,14,14,NS,0.0033,0.0012,6,0.0123,0.0065,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws2,sws2a,light,reared,14,14,S,0,0,6,0.1467,0.0129,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,rh2,rh2b,light,reared,14,14,S,0.23,0.0876,6,0.0006,0.0004,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,rh2,rh2ab,light,reared,14,14,NS,0.5137,0.0551,6,0.5678,0.0412,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,lws,lws,light,reared,14,14,S,0.138,0.0735,6,0.2717,0.0361,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws1,sws1,light,reared,14,180,NS,0,0,6,0.0045,0.0109,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws2,sws2b,light,reared,14,180,NS,0.0144,0.0089,6,0.0314,0.0273,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,sws2,sws2a,light,reared,14,180,NS,0.1237,0.0365,6,0.1084,0.0473,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,rh2,rh2b,light,reared,14,180,NS,0,0,6,0.0003,0.0002,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,rh2,rh2ab,light,reared,14,180,NS,0.3674,0.2025,6,0.4067,0.2443,6,NA
+Amphilophus citrinellus ,61819,5,2,Härer et al. 2017,Cichlidae,lws,lws,light,reared,14,180,NS,0.4944,0.1721,6,0.4487,0.2232,6,NA
+Poecilia reticulata,8081,6,1,Ehlman et al. 2015,Poecilidae,sws1,sws1,light,reared,120,120,S,0.1194,0.0639,19,0.0921,0.0639,19,NA
+Poecilia reticulata,8081,6,1,Ehlman et al. 2015,Poecilidae,sws2,sws2b,light,reared,120,120,S,0.1026,0.1004,19,0.1173,0.0913,19,NA
+Poecilia reticulata,8081,6,1,Ehlman et al. 2015,Poecilidae,rh2,rh2_1,light,reared,120,120,S,0.2911,0.1826,19,0.1508,0.1187,19,NA
+Poecilia reticulata,8081,6,1,Ehlman et al. 2015,Poecilidae,rh2,rh2_2,light,reared,120,120,S,0.2325,0.1187,19,0.3183,0.1095,19,NA
+Poecilia reticulata,8081,6,1,Ehlman et al. 2015,Poecilidae,lws,lws1,light,reared,120,120,S,0.0817,0.1004,19,0.0859,0.0822,19,NA
+Poecilia reticulata,8081,6,1,Ehlman et al. 2015,Poecilidae,lws,lws2,light,reared,120,120,S,0.088,0.073,19,0.2325,0.1734,19,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,lws,lws1,light,reared,180,180,NS,0.3944,0.148,8,0.4548,0.2135,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,lws,lws2,light,reared,180,180,NS,0.0025,0.0007,8,0.0023,0.0007,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,lws,lws3,light,reared,180,180,S,0.1728,0.0679,8,0.2604,0.097,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,lws,lws4,light,reared,180,180,NS,0.0069,0.0019,8,0.0062,0.0023,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,rh2,rh2_1,light,reared,180,180,NS,0.3556,0.2436,8,0.3625,0.2075,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,rh2,rh2_2,light,reared,180,180,NS,0.3703,0.0813,8,0.3773,0.1082,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,sws2,sws2a,light,reared,180,180,NS,0.1019,0.0348,8,0.1233,0.0389,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,sws2,sws2b,light,reared,180,180,NS,0.5505,0.1761,8,0.5208,0.208,6,NA
+Poecilia reticulata,8081,7,1,Sakai et .al 2016,Poecilidae,sws1,sws1,light,reared,180,180,NS,0.2998,0.0985,8,0.3118,0.0902,6,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,lws,AA_lws1,light,reared,110,110,S,0.2133,0.0969,5,0.28,0.1687,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,lws,SS_lws1,light,reared,110,110,S,0.5867,0.2325,19,0.4133,0.1746,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,lws,AA_lws2,light,reared,110,110,S,0.0018,0.0012,5,0.0013,0.0009,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,lws,SS_lws1,light,reared,110,110,S,0.0031,0.0011,19,0.0024,0.0012,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,lws,AA_lws3,light,reared,110,110,S,0.0504,0.0369,5,0.0478,0.0302,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,lws,SS_lws3,light,reared,110,110,S,0.0835,0.0531,19,0.0517,0.039,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,lws,AA_lws4,light,reared,110,110,NS,0.0016,0.0026,5,0.0016,0.0024,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,lws,S_lws4,light,reared,110,110,NS,0.0029,0.0022,19,0.0018,0.0015,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,rh2,AA_rh2_1,light,reared,110,110,NS,0.0944,0.0381,5,0.1423,0.0518,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,rh2,SS_rh2_1,light,reared,110,110,NS,0.1187,0.0686,19,0.1082,0.0638,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,rh2,AA_rh_2,light,reared,110,110,S,0.1477,0.0858,5,0.2058,0.1066,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,rh2,SS_rh_2,light,reared,110,110,S,0.2558,0.076,19,0.2163,0.0957,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,sws1,AA_sws1,light,reared,110,110,S,0.2895,0.0873,5,0.2457,0.0783,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,sws1,SS_sws1,light,reared,110,110,S,0.2686,0.0747,19,0.2086,0.0535,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,sws2,AA_sws2a,light,reared,110,110,S,0.0266,0.0138,5,0.0277,0.0185,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,sws2,SS_sws2a,light,reared,110,110,S,0.0378,0.0188,19,0.0275,0.0132,14,NA
+Poecilia reticulata,8081,8,1,Sakai et .al 2018,Poecilidae,sws2,AA_sws2b,light,reared,110,110,S,0.0228,0.0058,5,0.0237,0.0083,10,NA
+Poecilia reticulata,8081,8,2,Sakai et .al 2018,Poecilidae,sws2,SS_sws2b,light,reared,110,110,S,0.0398,0.0094,19,0.0315,0.0098,14,NA
+Gasterosteus aculeatus,69293,9,1,Veen et al. 2017,Gasterosteidae,sws1,sws1,light,induced,500,500,NS,0.048,0.0209,28,0.0493,0.0279,28,NA
+Gasterosteus aculeatus,69293,9,1,Veen et al. 2017,Gasterosteidae,sws1,sws2,light,induced,500,500,S,0.0036,0.0014,28,0.0039,0.0016,28,NA
+Gasterosteus aculeatus,69293,9,1,Veen et al. 2017,Gasterosteidae,rh2,rh2,light,induced,500,500,S,0.6558,0.0955,28,0.6071,0.0904,28,NA
+Gasterosteus aculeatus,69293,9,1,Veen et al. 2017,Gasterosteidae,lws,lws,light,induced,500,500,S,0.2919,0.0894,28,0.3382,0.0835,28,NA
+Gambusia affinis,33528,10,1,Chang et al. 2023,Poecilidae,lws,LWS3,light,induced,30,50,S,0.011,0.004,7,0.051,0.012,7,NA
+Gambusia affinis,33528,10,1,Chang et al. 2023,Poecilidae,lws,LWS1,light,induced,30,50,S,8.589,5.619,7,41.399,3.952,7,NA
+Gambusia affinis,33528,10,1,Chang et al. 2023,Poecilidae,rh2,RH2,light,induced,30,50,S,65.184,7.063,7,31.466,6.422,7,NA
+Gambusia affinis,33528,10,1,Chang et al. 2023,Poecilidae,sws2,SWS2B,light,induced,30,50,NS,5.627,3.966,7,9.8,3.465,7,NA
+Gambusia affinis,33528,10,1,Chang et al. 2023,Poecilidae,sws2,SWS2A,light,induced,30,50,S,0.09,0.036,7,0.241,0.141,7,NA
+Gambusia affinis,33528,10,1,Chang et al. 2023,Poecilidae,sws1,SWS1,light,induced,30,50,S,20.497,1.528,7,17.044,4.946,7,NA
+Pundamilia pundamilia,195937,11,1,Wilwert et al. 2023,Cichlidae,sws2,sws2a,light,reared,790,790,S,0.1111,0.0217,18,0.1053,0.0433,13,NA
+Pundamilia pundamilia,195937,11,1,Wilwert et al. 2023,Cichlidae,rh2,rh2,light,reared,790,790,S,0.0234,0.0476,18,0.0351,0.0173,13,NA
+Pundamilia pundamilia,195937,11,1,Wilwert et al. 2023,Cichlidae,lws,lws,light,reared,790,790,S,0.8596,0.0736,18,0.8596,0.0476,12,NA
+Pundamilia nyererei,303518,11,2,Wilwert et al. 2023,Cichlidae,sws2,sws2a,light,reared,790,790,S,0.1287,0.0693,19,0.0702,0.0173,12,NA
+Pundamilia nyererei,303518,11,2,Wilwert et al. 2023,Cichlidae,rh2,rh2,light,reared,790,790,S,0.1287,0.091,19,0.1053,0.0476,12,NA
+Pundamilia nyererei,303518,11,2,Wilwert et al. 2023,Cichlidae,lws,lws,light,reared,790,790,S,0.7544,0.1386,19,0.8304,0.0693,12,NA
+Haplochromis sauvagei,77313,11,3,Wilwert et al. 2023,Cichlidae,sws2,sws2a,light,reared,790,790,S,0.1228,0.039,14,0.1287,0.0173,13,NA
+Haplochromis sauvagei,77313,11,3,Wilwert et al. 2023,Cichlidae,rh2,rh2,light,reared,790,790,S,0.345,0.0996,14,0.2982,0.0693,13,NA
+Haplochromis sauvagei,77313,11,3,Wilwert et al. 2023,Cichlidae,lws,lws,light,reared,790,790,S,0.5439,0.1386,14,0.5673,0.0347,15,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,sws2,sws2a,light,reared,5,5,NS,-1.7423,0.6108,10,-1.6649,0.1701,20,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,sws2,sws2a,light,reared,10,10,NS,-1.6495,0,10,-1.4794,0.6804,20,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,rh2,rh2a-1,light,reared,5,5,S,-0.3196,0.8041,10,-0.3814,0.116,20,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,rh2,rh2a-1,light,reared,10,10,S,-0.0258,0,10,0.268,0.4871,20,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,rh2,rh2a-2,light,reared,5,5,NS,-0.3462,0.5567,10,-0.4077,0.0696,20,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,rh2,rh2a-2,light,reared,10,10,NS,-0.2538,0,10,-0.2231,0.4948,20,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,rh2,rh2a-3,light,reared,5,5,NS,-0.3154,0.518,10,-0.1923,0.1082,20,NA
+Gadus morhua,8049,12,1,Valen et al. 2018,Gadidae,rh2,rh2a-3,light,reared,10,10,NS,-0.0538,0,10,-0.0077,0.8351,20,NA
+Cyprinella lutrensis,28791,13,1,Chang and Yan 2019,Cyprinidae,rh2,RH2A,light,induced,30,500,NS,0.236,0.0706,7,0.2509,0.0499,8,NA
+Cyprinella lutrensis,28791,13,1,Chang and Yan 2019,Cyprinidae,rh2,RH2B,light,induced,30,500,NS,0.1866,0.0288,7,0.1194,0.0479,8,NA
+Cyprinella lutrensis,28791,13,1,Chang and Yan 2019,Cyprinidae,sws1,SWS1,light,induced,30,500,S,0.2164,0.0453,7,0.1703,0.0308,8,NA
+Cyprinella lutrensis,28791,13,1,Chang and Yan 2019,Cyprinidae,sws2,SWS2,light,induced,30,500,S,0.1197,0.0129,7,0.1184,0.0157,8,NA
+Cyprinella lutrensis,28791,13,1,Chang and Yan 2019,Cyprinidae,lws,LWS,light,induced,30,500,S,0.2414,0.0407,7,0.341,0.0575,8,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh1,rh1,light,reared,0,0,NS,2.5,1.7889,20,4.3,5.8138,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh1,rh1,light,reared,4,4,NS,741.4,493.7238,20,946.4,106.4368,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh1,rh1,light,reared,7,7,NS,1549.1,663.665,20,1626.2,1312.5719,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh1,rh1,light,reared,9,9,NS,481.2,91.3898,10,797.2,329.5093,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh1,rh1,light,reared,17,17,NS,788.1,295.0405,10,711.2,255.8283,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh1,rh1,light,reared,21,21,NS,397.3,172.8481,5,1744,141.0959,5,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws1,sws1,light,reared,0,0,NS,12.3,6.261,20,5.9,1.7889,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws1,sws1,light,reared,4,4,S,109.8,30.4105,20,40.5,12.522,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws1,sws1,light,reared,7,7,S,150.7,100.1758,20,18.4,13.4164,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws1,sws1,light,reared,9,9,S,97.7,22.7684,10,29.3,18.3412,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws1,sws1,light,reared,17,17,NS,73.4,59.767,10,63.2,19.2899,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws1,sws1,light,reared,21,21,NS,246.7,64.6224,5,212.6,98.6106,5,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws2,sws2,light,reared,0,0,NS,0.3,0,20,0.6,0.8944,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws2,sws2,light,reared,4,4,NS,121.9,71.5542,20,160.7,99.2814,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws2,sws2,light,reared,7,7,NS,343.1,209.7432,20,513.2,467.7854,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws2,sws2,light,reared,9,9,NS,42.4,18.3412,10,102.3,70.2026,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws2,sws2,light,reared,17,17,NS,23.8,13.2816,10,35.1,13.2816,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,sws2,sws2,light,reared,21,21,NS,21.2,19.901,5,52.9,4.6957,5,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_3,light,reared,0,0,S,10.7,8.0498,20,1.4,2.6833,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_3,light,reared,4,4,NS,284.2,120.7477,20,190.9,74.2375,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_3,light,reared,7,7,S,4722.6,1932.4099,20,422.8,117.6172,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_3,light,reared,9,9,NS,78.8,8.8544,10,87.3,67.3565,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_3,light,reared,17,17,NS,12.8,9.8031,10,13.8,3.4785,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_3,light,reared,21,21,NS,8.2,4.2485,5,3.1,1.3416,5,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_4,light,reared,0,0,NS,3.7,3.1305,20,3.4,1.7889,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_4,light,reared,4,4,NS,9687.8,6243.1018,20,4733.7,1935.9877,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_4,light,reared,7,7,NS,9203.8,2688.2009,20,11856.9,8745.7091,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_4,light,reared,9,9,NS,3206.9,73.0486,10,5415.9,1033.7486,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_4,light,reared,17,17,S,526.9,246.3414,10,1269.6,319.39,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,rh2,rh2_4,light,reared,21,21,NS,397.3,172.8481,5,270.2,158.5372,5,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,lws,lws,light,reared,0,0,NS,17.5,8.9443,20,27.9,20.1246,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,lws,lws,light,reared,4,4,NS,1264.3,1013.386,20,812.6,366.7151,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,lws,lws,light,reared,7,7,NS,848.9,516.5317,20,1011.8,1029.4857,20,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,lws,lws,light,reared,9,9,NS,230.4,60.7157,10,516,440.8215,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,lws,lws,light,reared,17,17,NS,243.5,212.8213,10,279.2,16.4438,10,NA
+Solea senegalensis,28829,14,1,Frau et al. 2022,Soleidae,lws,lws,light,reared,21,21,NS,215.7,124.9962,5,1885.5,382.5912,5,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws1,sws1,light,induced,3,790,NS,42.5448,13.5701,10,48.9784,13.5118,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2b,light,induced,3,790,NS,56.7631,13.6195,10,50.6578,13.3768,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2a,light,induced,3,790,NS,0.6921,0.8367,10,0.3637,0.2181,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2b,light,induced,3,790,NS,16.4798,4.8462,10,22.0529,9.3591,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2a,light,induced,3,790,NS,74.9943,4.4982,10,69.1076,7.134,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,lws,lws,light,induced,3,790,NS,8.5258,2.7593,10,8.8395,5.5492,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws1,sws1,light,induced,7,790,NS,42.5448,13.5701,10,58.4173,13.0249,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2b,light,induced,7,790,NS,56.7631,13.6195,10,40.1988,12.1954,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2a,light,induced,7,790,NS,0.6921,0.8367,10,1.3839,1.0731,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2b,light,induced,7,790,NS,16.4798,4.8462,10,8.0542,3.6909,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2a,light,induced,7,790,NS,74.9943,4.4982,10,76.0083,5.6706,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,lws,lws,light,induced,7,790,NS,8.5258,2.7593,10,15.9376,5.0734,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws1,sws1,light,induced,3,790,S,42.5448,13.5701,10,66.5007,14.7374,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2b,light,induced,3,790,S,56.7631,13.6195,10,33.3429,14.7031,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2a,light,induced,3,790,NS,0.6921,0.8367,10,0.1564,0.1743,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2b,light,induced,3,790,NS,16.4798,4.8462,10,12.7546,5.0936,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2a,light,induced,3,790,NS,74.9943,4.4982,10,82.1015,8.8922,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,lws,lws,light,induced,3,790,NS,8.5258,2.7593,10,5.1439,5.4069,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws1,sws1,light,induced,7,790,S,42.5448,13.5701,10,66.5007,14.7374,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2b,light,induced,7,790,S,56.7631,13.6195,10,33.3429,14.7031,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,sws2,sws2a,light,induced,7,790,NS,0.6921,0.8367,10,0.1564,0.1743,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2b,light,induced,7,790,NS,16.4798,4.8462,10,12.7546,5.0936,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,rh2,rh2a,light,induced,7,790,NS,74.9943,4.4982,10,82.1015,8.8922,9,NA
+Maylandia benetos,441512,15,1,Nandamuri et al. 2017,Cichlidae,lws,lws,light,induced,7,790,NS,8.5258,2.7593,10,5.1439,5.4069,9,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws1,sws1,light,induced,3,790,NS,84.0672,12.7944,20,65.6438,9.8742,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws2,sws2b,light,induced,3,790,S,15.5922,12.8097,20,34.245,9.8369,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws2,sws2a,light,induced,3,790,NS,0.3406,0.9261,20,0.1111,0.102,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,rh2,rh2b,light,induced,3,790,S,22.923,3.0242,20,19.4471,1.9883,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,rh2,rh2a,light,induced,3,790,NS,74.6344,3.523,20,77.0253,3.2511,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,lws,lws,light,induced,3,790,NS,2.4425,1.9669,20,3.5276,2.3922,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws1,sws1,light,induced,21,790,NS,84.0672,12.7944,20,69.7325,15.7245,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws2,sws2b,light,induced,21,790,NS,15.5922,12.8097,20,30.2468,15.7255,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws2,sws2a,light,induced,21,790,NS,0.3406,0.9261,20,0.0207,0.1032,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,rh2,rh2b,light,induced,21,790,NS,22.923,3.0242,20,22.0665,2.4775,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,rh2,rh2a,light,induced,21,790,NS,74.6344,3.523,20,76.1424,2.3111,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,lws,lws,light,induced,21,790,NS,2.4425,1.9669,20,1.7911,1.488,10,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws1,sws1,light,induced,35,790,NS,84.0672,12.7944,20,66.5845,19.0219,9,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws2,sws2b,light,induced,35,790,S,15.5922,12.8097,20,33.3105,19.0986,9,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,sws2,sws2a,light,induced,35,790,NS,0.3406,0.9261,20,0.105,0.1401,9,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,rh2,rh2b,light,induced,35,790,NS,22.923,3.0242,20,20.2882,1.7237,9,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,rh2,rh2a,light,induced,35,790,NS,74.6344,3.523,20,77.3246,2.7886,9,NA
+Maylandia mbenjii,441518,15,2,Nandamuri et al. 2017,Cichlidae,lws,lws,light,induced,35,790,NS,2.4425,1.9669,20,2.3872,2.3492,9,NA
+Pomacentrus moluccensis,80956,16,1,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,NS,23.0769,6.9231,7,17.3077,5.1923,6,NA
+Pomacentrus moluccensis,80956,16,1,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,S,31.1538,5.1923,7,47.8846,4.6154,6,NA
+Pomacentrus moluccensis,80956,16,1,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,S,40.9615,5.1923,7,32.3077,5.7692,6,NA
+Pomacentrus moluccensis,80956,16,1,Stieb et al. 2016,Pomacentridae,lws,lws,light,reared,500,500,NS,4.0385,2.8846,7,2.3077,2.3077,6,NA
+Pomacentrus amboinensis,393602,16,2,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,NS,15.5769,6.3462,10,12.1154,5.1923,9,NA
+Pomacentrus amboinensis,393602,16,2,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,NS,40.3846,10.3846,10,50.1923,7.5,9,NA
+Pomacentrus amboinensis,393602,16,2,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,S,42.6923,5.7692,10,36.3462,7.5,9,NA
+Pomacentrus amboinensis,393602,16,2,Stieb et al. 2016,Pomacentridae,lws,lws,light,reared,500,500,NS,1.1538,1.1538,10,0.5769,0.5769,9,NA
+Pomacentrus coelestis,80955,16,3,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,S,21.1429,5.1429,6,11.4286,1.7143,9,NA
+Pomacentrus coelestis,80955,16,3,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,S,41.1429,5.1429,6,48.5714,2.8571,9,NA
+Pomacentrus coelestis,80955,16,3,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,NS,37.7143,3.4286,6,40,2.2857,9,NA
+Pomacentrus coelestis,80955,16,3,Stieb et al. 2016,Pomacentridae,lws,lws,light,reared,500,500,NS,1.1429,0.5714,6,1.1429,0.5714,9,NA
+Pomacentrus nagasakiensis,229136,16,4,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,NS,8.5714,2.2857,9,17.1429,4,8,NA
+Pomacentrus nagasakiensis,229136,16,4,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,S,47.4286,1.7143,9,50.2857,4,8,NA
+Pomacentrus nagasakiensis,229136,16,4,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,NS,42.8571,2.8571,9,30.8571,4,8,NA
+Dascyllus aruanus,80949,16,5,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,NS,13.8462,5.1923,8,12.1154,4.0385,11,NA
+Dascyllus aruanus,80949,16,5,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,NS,50.1923,5.7692,8,49.0385,5.7692,11,NA
+Dascyllus aruanus,80949,16,5,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,NS,35.1923,6.9231,8,37.5,5.1923,11,NA
+Dascyllus reticulatus,80951,16,6,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,NS,12.1154,2.3077,6,13.8462,1.1538,7,NA
+Dascyllus reticulatus,80951,16,6,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,NS,49.6154,3.4615,6,49.6154,6.3462,7,NA
+Dascyllus reticulatus,80951,16,6,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,NS,37.5,2.3077,6,35.7692,5.7692,7,NA
+Chrysiptera rollandi,196128,16,7,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,NS,15.1456,7.5728,7,10.4854,2.9126,7,NA
+Chrysiptera rollandi,196128,16,7,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,NS,47.767,4.6602,7,50.0971,1.7476,7,NA
+Chrysiptera rollandi,196128,16,7,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,NS,37.2816,5.2427,7,39.0291,3.4951,7,NA
+Pomacentrus nagasakiensis,229136,16,8,Stieb et al. 2016,Pomacentridae,sws1,sws1,light,reared,500,500,S,7.3347,5.1703,8,21.0421,3.9679,9,NA
+Pomacentrus nagasakiensis,229136,16,8,Stieb et al. 2016,Pomacentridae,rh2,rh2b,light,reared,500,500,NS,48.2164,3.7275,8,51.2224,8.0561,9,NA
+Pomacentrus nagasakiensis,229136,16,8,Stieb et al. 2016,Pomacentridae,rh2,rh2a,light,reared,500,500,NS,43.8878,6.3727,8,31.022,8.0561,9,NA
+Pundamilia pundamilia,195937,17,1,Wright et al. 2020,Cichlidae,sws2,sws2a,light,reared,500,500,NS,0.1395,32.0428,18,0.1453,50.1549,9,NA
+Pundamilia pundamilia,195937,17,1,Wright et al. 2020,Cichlidae,rh2,rh2a,light,reared,500,500,NS,0.0756,30.3984,18,0.0523,14.33,9,NA
+Pundamilia pundamilia,195937,17,1,Wright et al. 2020,Cichlidae,lws,lws,light,reared,500,500,NS,0.7849,40.5313,18,0.8081,50.1549,9,NA
+Pundamilia nyererei,303518,17,2,Wright et al. 2020,Cichlidae,sws2,sws2a,light,reared,500,500,S,0.1453,62.5541,14,0.0756,15.1051,10,NA
+Pundamilia nyererei,303518,17,2,Wright et al. 2020,Cichlidae,rh2,rh2a,light,reared,500,500,NS,0.1919,53.6178,14,0.1686,60.4204,10,NA
+Pundamilia nyererei,303518,17,2,Wright et al. 2020,Cichlidae,lws,lws,light,reared,500,500,S,0.657,89.363,14,0.7558,53.4046,10,NA
+Pundamilia nyererei,303518,17,2,Wright et al. 2020,Cichlidae,sws2,sws2b,light,reared,500,500,NS,0.0116,8.9363,14,0.0058,7.5526,14,NA
+Pundamilia pundamilia,195937,17,1,Wright et al. 2020,Cichlidae,sws2,sws2b,light,reared,500,500,NS,0.0058,10.1328,18,0.0058,7.165,10,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws1,sws1,hormone,reared,"	0.0416666667",9,NS,61.95,2.9664,3,62.9033,5.8708,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2b,hormone,reared,"	0.0416666668",9,NS,37.8333,3.0332,3,36.9333,5.9229,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2a,hormone,reared,"	0.0416666669",9,NS,0.2167,0.1168,3,0.1633,0.0569,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2b,hormone,reared,"	0.0416666670",9,NS,0.1367,0.0231,3,0.13,0.1153,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2a,hormone,reared,"	0.0416666671",9,NS,36.3967,3.0137,3,37.2067,1.16,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,lws,lws,hormone,reared,"	0.0416666672",9,NS,63.4733,2.9897,3,62.6633,1.0611,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws1,sws1,hormone,reared,1,10,S,53.0333,8.4889,3,27.8067,2.9778,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2b,hormone,reared,1,10,S,46.8267,8.4705,3,72.13,2.9788,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2a,hormone,reared,1,10,NS,0.1367,0.0351,3,0.06,0.01,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2b,hormone,reared,1,10,NS,0.8733,0.9771,3,0.1033,0.0321,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2a,hormone,reared,1,10,NS,31.1333,5.3615,3,34.1933,1.0716,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,lws,lws,hormone,reared,1,10,NS,67.9933,5.2827,3,65.7033,1.052,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws1,sws1,hormone,reared,5,14,NS,11.9667,3.4045,3,2.0233,0.465,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2b,hormone,reared,5,14,NS,87.6367,3.3005,3,76.02,6.101,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2a,hormone,reared,5,14,S,0.3933,0.1097,3,21.9533,5.7961,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2b,hormone,reared,5,14,NS,0.1167,0.0551,3,0.2167,0.1172,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2a,hormone,reared,5,14,NS,30.73,2.7801,3,22.8833,2.0361,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,lws,lws,hormone,reared,5,14,NS,69.1533,2.7491,3,76.9033,1.93,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws1,sws1,hormone,reared,10,19,NS,6.2567,1.7375,3,0.64,0.0964,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2b,hormone,reared,10,19,S,92.0567,1.5629,3,32.8267,1.0813,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2a,hormone,reared,10,19,S,1.6867,1.3004,3,66.5367,1.1461,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2b,hormone,reared,10,19,NS,0.08,0.0608,3,0.1967,0.0321,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2a,hormone,reared,10,19,NS,24.8033,3.5357,3,18.0667,1.5497,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,lws,lws,hormone,reared,10,19,NS,75.12,3.4833,3,81.74,1.5784,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws1,sws1,hormone,reared,15,24,NS,3.22,0.151,3,1.0367,0.1069,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2b,hormone,reared,15,24,S,88.5267,3.9108,3,32.4433,8.9172,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,sws2,sws2a,hormone,reared,15,24,S,8.2533,3.8636,3,66.5233,8.8247,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2b,hormone,reared,15,24,NS,0.03,0,3,0.26,0.0173,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,rh2,rh2a,hormone,reared,15,24,NS,25.8967,2.3894,3,18.34,0.8848,3,NA
+Haplochromis burtoni,8153,18,1,Schreiner et al. 2022,Cichlidae,lws,lws,hormone,reared,15,24,NS,74.0767,2.3837,3,81.4,0.875,3,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,sws1,sws1,hormone,induced,14,500,NS,0.5,0.2,5,0.2,0.1,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,sws1,sws1,hormone,induced,14,500,S,0.5,0.2,5,1.6,0.4,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,sws2,sws2b,hormone,induced,14,500,NS,14.5,3.9,5,4.1,0.7,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,sws2,sws2b,hormone,induced,14,500,S,14.5,3.9,5,38.2,7.1,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,sws2,sws2a,hormone,induced,14,500,NS,85,4,5,95.7,0.7,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,sws2,sws2a,hormone,induced,14,500,S,85,4,5,60.2,7.4,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,rh2,rh2b,hormone,induced,14,500,NS,0.2,0.1,5,0.1,0.04,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,rh2,rh2b,hormone,induced,14,500,NS,0.2,0.1,5,0.2,0.1,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,rh2,rh2a,hormone,induced,14,500,NS,31.5,0.8,5,35.8,1,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,rh2,rh2a,hormone,induced,14,500,S,31.5,0.8,5,46,2.9,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,lws,lws,hormone,induced,14,500,NS,68.3,0.8,5,64.1,1.1,5,NA
+Haplochromis burtoni,8153,18,2,Schreiner et al. 2022,Cichlidae,lws,lws,hormone,induced,14,500,S,68.3,0.8,5,53.8,3,5,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws1,sws1,light,reared,9,12,S,17.88,7.4804,3,41.3667,1.9848,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2b,light,reared,9,12,NS,81.7967,7.537,3,58.4233,1.9512,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2a,light,reared,9,12,NS,0.3233,0.121,3,0.2133,0.0321,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2b,light,reared,9,12,NS,0.0467,0.0404,3,0.2233,0.0473,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2a,light,reared,9,12,NS,40.58,4.2228,3,34.7933,1.6799,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,lws,lws,light,reared,9,12,NS,59.3767,4.2105,3,64.9867,1.6848,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws1,sws1,light,reared,16,19,S,3.12,0.2402,3,16.57,0.1819,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2b,light,reared,16,19,NS,93.9633,0.6357,3,82.8,0.1992,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2a,light,reared,16,19,NS,2.92,0.785,3,0.63,0.3251,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2b,light,reared,16,19,NS,0.0167,0.0058,3,0.55,0.1473,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2a,light,reared,16,19,S,41.9267,4.3508,3,32.4267,4.1008,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,lws,lws,light,reared,16,19,NS,58.06,4.3548,3,67.02,4.0424,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws1,sws1,light,reared,30,33,NS,1.6233,0.1943,3,4.76,2.8406,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2b,light,reared,30,33,NS,74.7833,1.5216,3,87.8033,7.8132,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2a,light,reared,30,33,NS,23.5967,1.6029,3,7.4367,9.3231,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2b,light,reared,30,33,NS,0.0067,0.0058,3,0.1633,0.0929,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2a,light,reared,30,33,NS,48.2167,1.6731,3,38.8533,2.5545,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,lws,lws,light,reared,30,33,NS,51.7733,1.671,3,60.98,2.5908,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws1,sws1,light,reared,44,47,NS,1.39,0.4293,3,2.1233,0.2669,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2b,light,reared,44,47,NS,48.2467,15.3141,3,55.4433,4.7344,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2a,light,reared,44,47,NS,50.37,15.7467,3,42.43,4.9488,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2b,light,reared,44,47,NS,0.0233,0.0115,3,0.0533,0.0153,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2a,light,reared,44,47,NS,38.9067,2.6897,3,38.2833,0.7012,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,lws,lws,light,reared,44,47,NS,61.07,2.7,3,61.66,0.6879,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws1,sws1,light,reared,58,61,NS,1.0033,0.2344,3,1.2933,0.4499,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2b,light,reared,58,61,NS,32.6133,0.9039,3,32.0433,8.3993,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2a,light,reared,58,61,NS,66.3833,1.0734,3,66.66,8.7801,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2b,light,reared,58,61,NS,0.0367,0.0153,3,0.0333,0.0231,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2a,light,reared,58,61,NS,43.0433,2.7462,3,60.53,4.8495,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,lws,lws,light,reared,58,61,NS,56.92,2.761,3,39.4367,4.8253,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws1,sws1,light,reared,72,75,NS,0.61,0.2263,3,1.03,0.3537,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2b,light,reared,72,75,NS,18.105,11.9996,3,18.0333,2.4059,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,sws2,sws2a,light,reared,72,75,NS,81.29,12.2329,3,80.94,2.763,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2b,light,reared,72,75,NS,0.025,0.0212,3,0.0667,0.0153,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,rh2,rh2a,light,reared,72,75,NS,39.45,4.3134,3,44.0767,0.1415,3,NA
+Haplochromis burtoni,8153,18,3,Schreiner et al. 2022,Cichlidae,lws,lws,light,reared,72,75,NS,60.525,4.2921,3,55.8567,0.1531,3,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws1,Uvv_TH,hormone,reared,5,100,NS,9.67,1.53,5,11.3,2.52,5,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws1,Uvd_TH,hormone,reared,5,100,S,3.67,1.53,5,8.33,1.53,5,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws1,Uvv_TU,hormone,reared,5,100,NS,10.7,2.08,5,11.3,2.52,5,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws1,Uvd_TU,hormone,reared,5,100,S,14.3,1.53,5,8.33,1.53,5,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws2,Sws2v_TH,hormone,reared,5,100,S,5.67,1.15,5,0.33,0.75,5,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws2,Sws2d_TH,hormone,reared,5,100,S,10,1,5,5,4,5,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws2,Sws2v_TU,hormone,reared,5,100,NS,0,0,5,0.33,0.75,5,NA
+Oncorhynchus kisutch,8019,19,1,Gan and Novales-Flamarique 2010,Salmonidae,sws2,Sws2d_TU,hormone,reared,5,100,S,0,0,5,5,4,5,NA
+Melanochromis auratus,27751,20,1,Hofmmann et al. 2010,Cichlidae,sws1,sws1,light,reared,500,500,S,0.8451,0.5634,10,0,0.2817,10,NA
+Melanochromis auratus,27751,20,1,Hofmmann et al. 2010,Cichlidae,sws2,sws2b,light,reared,500,500,S,26.4789,3.662,10,33.8028,3.0986,10,NA
+Melanochromis auratus,27751,20,1,Hofmmann et al. 2010,Cichlidae,rh2,rh2b,light,reared,500,500,NS,13.5211,7.0423,10,10.7042,4.2254,10,NA
+Melanochromis auratus,27751,20,1,Hofmmann et al. 2010,Cichlidae,rh2,rh2a,light,reared,500,500,S,54.0845,7.0423,10,40.2817,5.9155,10,NA
+Melanochromis auratus,27751,20,1,Hofmmann et al. 2010,Cichlidae,lws,lws,light,reared,500,500,S,4.7887,4.507,10,13.8028,7.3239,10,NA
+Melanochromis johannii,28812,20,2,Hofmmann et al. 2010,Cichlidae,sws1,sws1,light,reared,500,500,S,19.4366,4.2254,10,12.9577,3.3803,10,NA
+Melanochromis johannii,28812,20,2,Hofmmann et al. 2010,Cichlidae,sws2,sws2b,light,reared,500,500,S,0.5634,0.5634,10,8.4507,3.9437,10,NA
+Melanochromis johannii,28812,20,2,Hofmmann et al. 2010,Cichlidae,rh2,rh2b,light,reared,500,500,NS,14.3662,3.662,10,15.2113,4.507,10,NA
+Melanochromis johannii,28812,20,2,Hofmmann et al. 2010,Cichlidae,rh2,rh2a,light,reared,500,500,NS,62.5352,7.3239,10,50.7042,4.7887,10,NA
+Melanochromis johannii,28812,20,2,Hofmmann et al. 2010,Cichlidae,lws,lws,light,reared,500,500,NS,2.8169,2.8169,10,12.6761,9.0141,10,NA
+Maylandia lombardoi,40195,20,3,Hofmmann et al. 2010,Cichlidae,sws1,sws1,light,reared,500,500,S,36.0563,6.4789,10,10.1408,2.8169,10,NA
+Maylandia lombardoi,40195,20,3,Hofmmann et al. 2010,Cichlidae,sws2,sws2b,light,reared,500,500,S,1.1268,1.4085,10,10.4225,2.8169,10,NA
+Maylandia lombardoi,40195,20,3,Hofmmann et al. 2010,Cichlidae,rh2,rh2b,light,reared,500,500,NS,7.3239,2.5352,10,13.2394,4.507,10,NA
+Maylandia lombardoi,40195,20,3,Hofmmann et al. 2010,Cichlidae,rh2,rh2a,light,reared,500,500,NS,51.2676,8.169,10,55.7746,6.1972,10,NA
+Maylandia lombardoi,40195,20,3,Hofmmann et al. 2010,Cichlidae,lws,lws,light,reared,500,500,NS,3.9437,2.5352,10,10.4225,8.7324,10,NA
+Maylandia mbenjii,441518,20,4,Hofmmann et al. 2010,Cichlidae,sws1,sws1,light,reared,500,500,S,32.5614,5.614,10,10.1053,1.9649,10,NA
+Maylandia mbenjii,441518,20,4,Hofmmann et al. 2010,Cichlidae,sws2,sws2b,light,reared,500,500,S,1.6842,1.1228,10,9.5439,2.5263,10,NA
+Maylandia mbenjii,441518,20,4,Hofmmann et al. 2010,Cichlidae,rh2,rh2b,light,reared,500,500,S,4.7719,3.0877,10,13.7544,3.9298,10,NA
+Maylandia mbenjii,441518,20,4,Hofmmann et al. 2010,Cichlidae,rh2,rh2a,light,reared,500,500,NS,53.3333,8.1404,10,55.2982,2.2456,10,NA
+Maylandia mbenjii,441518,20,4,Hofmmann et al. 2010,Cichlidae,lws,lws,light,reared,500,500,NS,7.2982,3.9298,10,11.2281,4.2105,10,NA
+Labeotropheus trewavasae,120210 ,20,5,Hofmmann et al. 2010,Cichlidae,sws1,sws1,light,reared,500,500,NS,22.6573,6.1538,10,20.1399,1.3986,10,NA
+Labeotropheus trewavasae,120210 ,20,5,Hofmmann et al. 2010,Cichlidae,sws2,sws2b,light,reared,500,500,S,1.6783,1.3986,10,4.1958,1.1189,10,NA
+Labeotropheus trewavasae,120210 ,20,5,Hofmmann et al. 2010,Cichlidae,rh2,rh2b,light,reared,500,500,S,10.6294,3.3566,10,15.6643,3.6364,10,NA
+Labeotropheus trewavasae,120210 ,20,5,Hofmmann et al. 2010,Cichlidae,rh2,rh2a,light,reared,500,500,S,61.5385,6.1538,10,53.7063,4.4755,10,NA
+Labeotropheus trewavasae,120210 ,20,5,Hofmmann et al. 2010,Cichlidae,lws,lws,light,reared,500,500,NS,3.9161,2.2378,10,7.2727,2.7972,10,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,30,500,NS,86.6,7.1111,8,84.2,4.5185,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,30,500,NS,13.4,7.1111,8,15.8,4.5185,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,30,500,NS,45,2.963,8,45.4,1.7778,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,30,500,NS,54.5,2.8889,8,53.4,1.1852,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,30,500,S,0.4,0.2963,8,1.3,0.1481,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,30,500,S,86.6,7.1111,8,68.8,7.1111,4,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,30,500,S,13.4,7.1111,8,31.2,9.037,4,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,30,500,NS,45,2.963,8,46,1.9259,4,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,30,500,NS,54.5,2.8889,8,52.8,1.3333,4,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,30,500,NS,0.4,0.2963,8,1.1,0.2963,4,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,180,500,S,86.6,7.1111,8,75.7,2.5926,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,180,500,S,13.4,7.1111,8,24.3,2.5926,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,180,500,NS,45,2.963,8,45.6,0.7407,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,180,500,NS,54.5,2.8889,8,53.9,0.6667,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,180,500,NS,0.4,0.2963,8,0.5,0.2963,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,180,500,S,86.6,7.1111,8,45.8,9.037,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,180,500,S,13.4,7.1111,8,54.2,9.037,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,180,500,NS,45,2.963,8,45.3,1.2593,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,180,500,NS,54.5,2.8889,8,54.2,0.7407,5,NA
+Pomacentrus amboinensis,393602,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,180,500,NS,0.4,0.2963,8,0.6,0.1481,5,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,30,500,NS,85,9.2593,18,87.8,9.1852,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,30,500,NS,15,9.2593,18,12.2,9.1852,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,30,500,NS,43.4,2.2963,18,44.3,1.1111,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,30,500,NS,52.2,2,18,49.6,1.037,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,30,500,NS,3.6,1.5556,18,6.6,1.9259,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,30,500,S,85,9.2593,18,57.3,4.3704,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,30,500,S,15,9.2593,18,29.7,4.3704,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,30,500,NS,43.4,2.2963,18,43.5,0.7407,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,30,500,NS,52.2,2,18,49.8,0.963,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,30,500,NS,3.6,1.5556,18,5,0.963,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,180,500,NS,85,9.2593,18,70.3,4.3704,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,180,500,NS,15,9.2593,18,29.7,4.3704,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,180,500,NS,43.4,2.2963,18,43.5,0.7407,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,180,500,NS,52.2,2,18,49.8,0.963,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,180,500,S,3.6,1.5556,18,5,0.963,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws1,sws1,light,reared,180,500,S,85,9.2593,18,66.6,19.1852,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,sws2,sws2b,light,reared,180,500,S,15,9.2593,18,33.4,19.1852,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2b,light,reared,180,500,NS,43.4,2.2963,18,41.5,2.6667,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,rh2,rh2a,light,reared,180,500,NS,52.2,2,18,49.9,3.2593,3,NA
+Pomacentrus moluccensis,80956,21,1,Luehrmann et al. 2018,Pomacentridae,lws,lws,light,reared,180,500,S,3.6,1.5556,18,6,1.9259,3,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2aa,light,reared,30,500,NS,9.4,5.5556,18,9.4,4.0741,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2ab,light,reared,30,500,NS,90.6,5.5556,18,90.6,4.0741,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2b,light,reared,30,500,NS,17.1,6.2963,18,16.5,6.5926,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2a,light,reared,30,500,NS,82.5,6.3704,18,83,6.2963,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,lws,lws,light,reared,30,500,NS,0.4,0.6667,18,0.7,0.3704,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2aa,light,reared,30,500,S,9.4,5.5556,18,2.3,1.7778,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2ab,light,reared,30,500,S,90.6,5.5556,18,97.7,1.7778,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2b,light,reared,30,500,NS,17.1,6.2963,18,13.1,3.7778,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2a,light,reared,30,500,NS,82.5,6.3704,18,86.5,3.7778,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,lws,lws,light,reared,30,500,NS,0.4,0.6667,18,0.4,0.1481,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2aa,light,reared,120,500,NS,9.4,5.5556,18,11.3,4.1481,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2ab,light,reared,120,500,NS,90.6,5.5556,18,88.7,4.1481,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2b,light,reared,120,500,S,17.1,6.2963,18,4.1,4.1481,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2a,light,reared,120,500,S,82.5,6.3704,18,94.3,4.8889,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,lws,lws,light,reared,120,500,NS,0.4,0.6667,18,1.5,1.2593,8,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2aa,light,reared,120,500,S,9.4,5.5556,18,3.3,1.2593,5,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,sws2,sws2ab,light,reared,120,500,S,90.6,5.5556,18,96.7,1.2593,5,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2b,light,reared,120,500,S,17.1,6.2963,18,3.3,2.8889,5,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,rh2,rh2a,light,reared,120,500,S,82.5,6.3704,18,95.4,2.5185,5,NA
+Ostorhinchus cyanosoma,223981,21,2,Luehrmann et al. 2018,Apogonidae,lws,lws,light,reared,120,500,NS,0.4,0.6667,18,0.6,0.3704,5,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh1,rh1,light,reared,2,3,NS,17.49901114,8.866723082,6,13.89864489,5.710312893,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2a,light,reared,2,3,NS,1.506062438,0.940105612,6,0.650644496,0.199095512,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2c,light,reared,2,3,NS,0.041891681,0.019563877,6,0.043355077,0.014551789,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2a,light,reared,2,3,NS,0.172511448,0.066100098,6,0.228909059,0.067714513,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2b,light,reared,2,3,NS,0.00490767,0.001938649,6,0.00823275,0.003221231,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,lws,lws,light,reared,2,3,NS,0.600188514,0.29328999,6,0.963479171,0.135727786,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh1,rh1,light,reared,2,3,NS,17.49901114,8.866723082,6,18.57520511,7.419066444,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2a,light,reared,2,3,NS,1.506062438,0.940105612,6,1.774006955,0.483736674,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2c,light,reared,2,3,NS,0.041891681,0.019563877,6,0.103381405,0.031614913,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2a,light,reared,2,3,NS,0.172511448,0.066100098,6,0.422286552,0.128531796,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2b,light,reared,2,3,NS,0.00490767,0.001938649,6,0.00715224,0.002946478,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,lws,lws,light,reared,2,3,NS,0.600188514,0.29328999,6,1.048956449,0.513743973,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh1,rh1,light,reared,2,6,NS,13.58079805,8.740908061,5,11.65661314,5.540606942,5,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2a,light,reared,2,6,NS,2.33168116,1.526037772,5,1.693301236,0.213758877,5,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2c,light,reared,2,6,NS,0.108855483,0.072714122,5,0.048759007,0.009981619,5,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2a,light,reared,2,6,NS,0.388442347,0.198836836,5,0.590947283,0.052815519,5,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2b,light,reared,2,6,NS,0.009258703,0.005501871,5,0.011512887,0.007605098,5,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,lws,lws,light,reared,2,6,NS,1.221905503,0.746151623,5,1.984135638,0.729932103,5,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh1,rh1,light,reared,2,6,NS,13.58079805,8.740908061,5,16.20264641,7.720131576,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2a,light,reared,2,6,NS,2.33168116,1.526037772,5,2.189199459,0.354752195,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,rh2,rh2c,light,reared,2,6,NS,0.108855483,0.072714122,5,0.151970034,0.05976312,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2a,light,reared,2,6,NS,0.388442347,0.198836836,5,0.447363852,0.127468504,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,sws2,sws2b,light,reared,2,6,NS,0.009258703,0.005501871,5,0.011049779,0.004946835,6,NA
+Acanthurus triostegus,175435,22,1,Fogg et al. 2023,Acanthuridae,lws,lws,light,reared,2,6,NS,1.221905503,0.746151623,5,1.463374472,0.323158366,6,NA
+Acanthurus triostegus,175435,22,2,Fogg et al. 2023,Acanthuridae,rh1,rh1,light,induced,6,500,NS,10.65747862,4.754410944,5,10.15081404,1.304785603,4,NA
+Acanthurus triostegus,175435,22,2,Fogg et al. 2023,Acanthuridae,rh2,rh2a,light,induced,6,500,NS,0.916620402,0.515503983,5,1.396210194,0.467342248,4,NA
+Acanthurus triostegus,175435,22,2,Fogg et al. 2023,Acanthuridae,rh2,rh2c,light,induced,6,500,NS,0.078953947,0.079101143,5,0.220729346,0.215654846,5,NA
+Acanthurus triostegus,175435,22,2,Fogg et al. 2023,Acanthuridae,sws2,sws2a,light,induced,6,500,NS,0.224756401,0.099061912,5,0.361070615,0.11375428,4,NA
+Acanthurus triostegus,175435,22,2,Fogg et al. 2023,Acanthuridae,sws2,sws2b,light,induced,6,500,NS,0.002393005,0.003402345,5,0.000933763,0.000500211,4,NA
+Acanthurus triostegus,175435,22,2,Fogg et al. 2023,Acanthuridae,lws,lws,light,induced,6,500,NS,0.238160951,0.119377354,5,0.400085481,0.135396938,4,NA
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,sws1,sws1,light,induced,49,700,S,NA,NA,4,NA,NA,4,-2.077977037
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,sws2,sws2b,light,induced,49,700,S,NA,NA,4,NA,NA,4,-2.318676007
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,sws2,sws2aa,light,induced,49,700,NS,NA,NA,4,NA,NA,4,0.395200873
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,sws2,sws2ab,light,induced,49,700,NS,NA,NA,4,NA,NA,4,-0.343703395
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,rh1,rh1,light,induced,49,700,NS,NA,NA,4,NA,NA,4,-1.265802202
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,rh2,rh2a1,light,induced,49,700,NS,NA,NA,4,NA,NA,4,-0.407056421
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,rh2,rh2a2,light,induced,49,700,NS,NA,NA,4,NA,NA,4,-0.614966874
+Platichthys stellatus,195632,23,1,Iwanicki et al. 2020,Pleuronectidae,lws,lws,light,induced,49,700,NS,NA,NA,4,NA,NA,4,0.440504238
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws1,sws1,light,induced,2,60,S,NA,NA,6,NA,NA,6,-1.85182
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws2,sws2a,light,induced,2,60,NS,NA,NA,6,NA,NA,6,0.896629
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws2,sws2b,light,induced,2,60,NS,NA,NA,6,NA,NA,6,-0.80819
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,rh2,rh2_1,light,induced,2,60,S,NA,NA,6,NA,NA,6,0.257106
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,rh2,rh2_2,light,induced,2,60,NS,NA,NA,6,NA,NA,6,0.295864
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,lws,lws,light,induced,2,60,NS,NA,NA,6,NA,NA,6,0.992948
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws1,sws1,light,induced,10,60,S,NA,NA,5,NA,NA,7,-0.36851
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws2,sws2a,light,induced,10,60,NS,NA,NA,5,NA,NA,7,-0.57458
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws2,sws2b,light,induced,10,60,NS,NA,NA,5,NA,NA,7,0.027109
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,rh2,rh2_1,light,induced,10,60,S,NA,NA,5,NA,NA,7,0.972266
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,rh2,rh2_2,light,induced,10,60,NS,NA,NA,5,NA,NA,7,-0.01441
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,lws,lws,light,induced,10,60,NS,NA,NA,5,NA,NA,7,-0.53834
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws1,sws1,light,induced,24,60,S,NA,NA,8,NA,NA,8,-1.08462
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws2,sws2a,light,induced,24,60,NS,NA,NA,8,NA,NA,8,0.288142
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,sws2,sws2b,light,induced,24,60,NS,NA,NA,8,NA,NA,8,-0.83327
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,rh2,rh2_1,light,induced,24,60,S,NA,NA,8,NA,NA,8,0.403782
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,rh2,rh2_2,light,induced,24,60,NS,NA,NA,8,NA,NA,8,0.717729
+Lucania goodei,232977,24,1,Fuller and Claricoates 2011,Fundulidae,lws,lws,light,induced,24,60,NS,NA,NA,8,NA,NA,8,0.136432
+Lucania goodei,232977,25,1,Fuller et al. 2005,Fundulidae,sws1,sws1,light,reared,60,60,S,0.188416988,0.040919355,78,0.091891892,0.020720321,80,NA
+Lucania goodei,232977,25,1,Fuller et al. 2005,Fundulidae,sws2,sws2a,light,reared,60,60,NS,0.228571429,0.047739248,78,0.211583012,0.034533868,80,NA
+Lucania goodei,232977,25,1,Fuller et al. 2005,Fundulidae,sws2,sws2b,light,reared,60,60,NS,0.003088803,0.013639785,78,0.003088803,0.013813547,80,NA
+Lucania goodei,232977,25,1,Fuller et al. 2005,Fundulidae,rh2,rh2,light,reared,60,60,S,0.278764479,0.061379033,78,0.328185328,0.041440642,80,NA
+Lucania goodei,232977,25,1,Fuller et al. 2005,Fundulidae,lws,lws,light,reared,60,60,S,0.2996139,0.054559137,78,0.368339768,0.041440642,80,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,lws,lws1,light,induced,60,270,NS,0.820646678,0.14261891,40,0.968802939,0.211042213,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,lws,LWS2,light,induced,60,270,NS,0.850272365,0.202293714,40,0.979274289,0.302468,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,lws,LWS3,light,induced,60,270,NS,0.935410199,0.237277196,40,1.018336022,0.255269681,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,lws,LWS4,light,induced,60,270,NS,0.884015678,0.138959248,40,0.959383721,0.171041048,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,rh2,Rh21 ,light,induced,60,270,NS,0.961060381,0.224350694,40,0.930976153,0.192349013,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,rh2,Rh22,light,induced,60,270,NS,0.886278597,0.137080351,40,0.952768639,0.168078643,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,sws2,SWS2a,light,induced,60,270,NS,0.993092108,0.154126111,40,1.16756303,0.278243732,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,sws2,SWS2b,light,induced,60,270,NS,0.8819939,0.168178841,40,0.969277145,0.253036153,38,NA
+Poecilia reticulata,8081,26,1,Kranz et al 2018,Poecilidae,sws1,SWS1,light,induced,60,270,NS,1.110903757,0.324628626,40,1.040664565,0.215331228,38,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,lws,LWS1,light,induced,60,270,NS,0.820646678,0.14261891,40,0.801507052,0.279558356,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,lws,LWS2,light,induced,60,270,NS,0.850272365,0.202293714,40,0.635531075,0.372668719,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,lws,LWS3,light,induced,60,270,NS,0.935410199,0.237277196,40,0.89707091,0.477654267,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,lws,LWS4,light,induced,60,270,NS,0.884015678,0.138959248,40,0.669004157,0.336219784,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,rh2,Rh21 ,light,induced,60,270,NS,0.961060381,0.224350694,40,0.656849569,0.258151484,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,rh2,Rh22,light,induced,60,270,NS,0.886278597,0.137080351,40,0.743403178,0.290048411,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,sws2,SWS2a,light,induced,60,270,NS,0.993092108,0.154126111,40,0.691853237,0.435589743,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,sws2,SWS2b,light,induced,60,270,NS,0.8819939,0.168178841,40,0.886956389,0.175791091,40,NA
+Poecilia reticulata,8081,26,2,Kranz et al 2018,Poecilidae,sws1,SWS1,light,induced,60,270,NS,1.110903757,0.324628626,40,1.015830183,0.202063107,40,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,lws,LWS1,light,reared,3,330,NS,1.41136448,0.377233186,40,1.193639507,0.189039315,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,lws,LWS2,light,reared,3,330,NS,0.926166997,0.152319884,40,1.027983552,0.091980932,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,lws,LWS3,light,reared,3,330,NS,1.582729246,0.45135734,40,1.191107017,0.116909146,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,lws,LWS4,light,reared,3,330,NS,0.870789996,0.310885364,40,1.030917353,0.170341741,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,rh2,Rh21 ,light,reared,3,330,NS,0.926607042,0.14684983,40,0.898582425,0.184748287,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,rh2,Rh22,light,reared,3,330,NS,1.300320657,0.307812009,40,1.176304604,0.124785398,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,sws2,SWS2a,light,reared,3,330,NS,1.42202179,0.451780933,40,1.10893992,0.100313993,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,sws2,SWS2b,light,reared,3,330,NS,1.043231003,0.161157066,40,1.133977624,0.105704142,37,NA
+Poecilia reticulata,8081,26,3,Kranz et al 2018,Poecilidae,sws1,SWS1,light,reared,3,330,NS,0.965909608,0.186891842,40,1.12604054,0.194964743,37,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,lws,LWS1,light,reared,3,330,NS,1.41136448,0.377233186,40,1.322190159,0.280272654,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,lws,LWS2,light,reared,3,330,NS,0.926166997,0.152319884,40,0.807865535,0.171345213,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,lws,LWS3,light,reared,3,330,NS,1.582729246,0.45135734,40,1.653474355,0.463316406,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,lws,LWS4,light,reared,3,330,NS,0.870789996,0.310885364,40,0.95205796,0.246560178,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,rh2,Rh21 ,light,reared,3,330,NS,0.926607042,0.14684983,40,0.712992962,0.165378252,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,rh2,Rh22,light,reared,3,330,NS,1.300320657,0.307812009,40,0.9968762,0.1068895,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,sws2,SWS2a,light,reared,3,330,NS,1.42202179,0.451780933,40,1.147894598,0.321931438,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,sws2,SWS2b,light,reared,3,330,NS,1.043231003,0.161157066,40,0.904161112,0.127928817,40,NA
+Poecilia reticulata,8081,26,4,Kranz et al 2018,Poecilidae,sws1,SWS1,light,reared,3,330,NS,0.965909608,0.186891842,40,0.92864846,0.239640643,40,NA
+Anguilla anguilla,7936,27,1,Thomson-Laing et al. 2018,Anguillidae,rh1,fwo,hormone,induced,1,2280,S,2.703196347,0.730593607,6,0.858447489,0.091324201,6,NA
+Anguilla anguilla,7936,27,1,Thomson-Laing et al. 2018,Anguillidae,rh1,swo,hormone,induced,1,2280,S,0.534246575,0.219178082,6,0.863013699,0.191780822,6,NA
+Megalops atlanticus,7932,28,1,Schweikert and Grace 2018,Megalopidae,lws,lws,light,induced,60,360,NS,12.09876543,0.570222488,3,12.01646091,0.329218107,4,NA
+Megalops atlanticus,7932,28,1,Schweikert and Grace 2018,Megalopidae,lws,lws,light,induced,120,360,S,14.73251029,0.658436214,4,11.60493827,0.329218107,4,NA
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,sws1,sws1,light,induced,7,89,S,NA,NA,4,NA,NA,4,2.842105263
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,sws2,sws2,light,induced,7,89,S,NA,NA,4,NA,NA,4,1.720508167
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,rh2,rh2,light,induced,7,89,S,NA,NA,4,NA,NA,4,2.188747731
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,lws,lws,light,induced,7,89,S,NA,NA,4,NA,NA,4,3.909255898
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,sws1,sws1,light,induced,7,113,S,NA,NA,4,NA,NA,4,0.958257713
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,sws2,sws2,light,induced,7,113,S,NA,NA,4,NA,NA,4,0.816696915
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,rh2,rh2,light,induced,7,113,S,NA,NA,4,NA,NA,4,0.849364791
+Hippoglossus hippoglossus,8267,29,1,Bolstad and Novales-Flamarique 2023,Pleuronectidae,lws,lws,light,induced,7,113,S,NA,NA,4,NA,NA,4,1.796733212
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws1,hormone,reared,0.5,2,NS,1.100987994,0.432254653,3,9.846884811,6.364860576,3,NA
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws1,hormone,reared,1,2,S,2.231810884,3.132965269,3,221.6288635,325.7452251,3,NA
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws1,hormone,reared,2,2,S,2.52052367,3.39567252,3,422.0162213,502.3662992,3,NA
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws1,hormone,reared,1,3,S,2.091478453,2.624421954,3,187.7527165,229.4342345,3,NA
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws2,hormone,reared,0.5,2,NS,1.560527154,1.762059494,3,5.244841836,3.622275008,3,NA
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws2,hormone,reared,1,2,NS,1.220873727,0.90384758,3,0.281576595,0.19785262,3,NA
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws2,hormone,reared,2,2,S,1.078097112,0.437144282,3,0.06365272,0.048839764,3,NA
+Danio rerio,7955,30,1,Mackin et al. 2019,Danioninae,lws,lws2,hormone,reared,1,3,S,1.852216188,2.027274247,3,0.594566066,0.778809269,3,NA
+Danio rerio,7955,30,2,Mackin et al. 2019,Danioninae,sws1,sws1,hormone,induced,5,26,S,1.61914679,1.328585627,5,0.818349782,0.683763092,3,NA
+Danio rerio,7955,30,2,Mackin et al. 2019,Danioninae,sws2,sws2,hormone,induced,5,26,NS,0.720677763,0.894477268,5,0.356900552,0.416917285,3,NA
+Danio rerio,7955,30,2,Mackin et al. 2019,Danioninae,rh2,rh2_1,hormone,induced,5,26,S,1.184917571,0.600791997,9,0.003087336,0.003041109,9,NA
+Danio rerio,7955,30,2,Mackin et al. 2019,Danioninae,rh2,rh2_2,hormone,induced,5,26,NS,0.416803307,0.311343323,9,0.032957094,0.030338582,9,NA
+Danio rerio,7955,30,2,Mackin et al. 2019,Danioninae,rh2,rh2_3,hormone,induced,5,26,S,0.235494264,0.183241783,9,0.379937815,0.221803639,9,NA
+Danio rerio,7955,30,2,Mackin et al. 2019,Danioninae,rh2,rh2_4,hormone,induced,5,26,NS,0.330218489,0.327944947,9,0.436895841,0.745046058,9,NA
+Gasterosteus aculeatus,69293,31,1,Shao et al. 2014,Gasterosteidae,lws,lws,hormone,induced,28,360,S,37.91262136,2.315669103,5,50.08090615,3.184045017,5,NA
+Gasterosteus aculeatus,69293,31,2,Shao et al. 2014,Gasterosteidae,rh2,rh2,hormone,induced,28,360,S,38.55987055,4.631338206,5,27.16828479,3.473503654,5,NA
+Gasterosteus aculeatus,69293,31,2,Shao et al. 2014,Gasterosteidae,lws,lws,light,induced,28,360,S,44.87012987,4.35597658,5,37.07792208,2.323187509,5,NA
+Gasterosteus aculeatus,69293,31,2,Shao et al. 2014,Gasterosteidae,rh2,rh2,light,induced,28,360,S,30.58441558,2.613585948,5,41.36363636,2.903984386,5,NA
+Gasterosteus aculeatus,69293,31,2,Shao et al. 2014,Gasterosteidae,sws1,sws1,light,induced,28,360,NS,15.18953069,1.965603688,5,9.332129964,0.84240158,5,NA
+Gasterosteus aculeatus,69293,31,2,Shao et al. 2014,Gasterosteidae,sws2,sws2,light,induced,28,360,NS,14.89169675,3.088805795,5,8.537906137,1.404002634,5,NA
+Danio rerio,7955,32,1,Farre et al. 2023,Danioninae,lws,lws1,hormone,induced,5,180,S,1.0572,0.382916048,5,5.8418,1.107388911,5,NA
+Danio rerio,7955,32,1,Farre et al. 2023,Danioninae,lws,lws2,hormone,induced,5,180,S,1.1404,0.759108885,5,0.0342,0.02040098,5,NA
+Danio rerio,7955,32,1,Farre et al. 2023,Danioninae,rh2,rh2_1,hormone,induced,5,180,S,0.1215,0.104907896,4,1.0885,1.499560269,4,NA
+Danio rerio,7955,32,1,Farre et al. 2023,Danioninae,rh2,rh2_2,hormone,induced,5,180,S,1.0128,0.337646561,5,0.3768,0.350025285,5,NA
+Gasterosteus aculeatus,69293,33,1,Bakker et al. 2024,Gasterosteidae,lws,lws,light,reared,360,360,NS,0.863152297,0.023503028,19,0.842140478,0.035632254,32,NA
+Gasterosteus aculeatus,69293,33,1,Bakker et al. 2024,Gasterosteidae,rh2,rh2,light,reared,360,360,NS,0.089669977,0.017053627,19,0.093601253,0.030753992,32,NA
+Gasterosteus aculeatus,69293,33,1,Bakker et al. 2024,Gasterosteidae,sws1,sws1,light,reared,360,360,NS,0.005637453,0.003580288,19,0.00472759,0.003276217,32,NA
+Gasterosteus aculeatus,69293,33,1,Bakker et al. 2024,Gasterosteidae,sws2,sws2,light,reared,360,360,S,0.041540272,0.014534765,19,0.05953068,0.015468039,32,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,lws,lws,light,reared,50,50,NS,66.24855382,7.379917803,12,65.24386788,4.420283177,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,rh2,rh2,light,reared,50,50,NS,19.39797887,6.332445599,12,21.31445569,5.42282163,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,sws2,sws2,light,reared,50,50,NS,10.63730225,4.332725936,12,11.83591032,2.460776202,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,sws1,sws1,light,reared,50,50,NS,4.733368005,2.2853939,12,1.081406917,0.745133529,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,lws,lws,light,reared,90,90,NS,68.53394772,6.570507463,10,68.88946226,5.832950997,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,rh2,rh2,light,reared,90,90,NS,15.96988801,4.951686784,10,17.85114103,6.379790153,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,sws2,sws2,light,reared,90,90,NS,13.87494361,4.142276444,10,13.29414807,2.68862585,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,sws1,sws1,light,reared,90,90,NS,1.305277155,2.571068138,10,0.194551113,0.267283881,8,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,lws,lws,light,reared,150,150,NS,68.72439721,4.427950682,8,71.80593776,4.01015381,4,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,rh2,rh2,light,reared,150,150,NS,16.54123649,3.666152715,8,14.93466554,4.921552404,4,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,sws2,sws2,light,reared,150,150,NS,14.82719106,2.999579494,8,12.92958863,2.050646835,4,NA
+Pundamilia pundamilia,195937,34,1,Irazabal-Gonzalez et al. 2024,Cichlidae,sws1,sws1,light,reared,150,150,NS,0.353029697,2.140560273,8,0.194551113,0.130574092,4,NA
+Amphilophus citrinellus ,61819,35,1,Torres-Dowdall et al. 2024,Cichlidae,sws1,sws1,light,reared,30,30,NS,0.002150624,0.00164869,8,0.063071917,0.080220782,8,NA
+Amphilophus citrinellus ,61819,35,1,Torres-Dowdall et al. 2024,Cichlidae,sws2,sws2b,light,reared,30,30,S,0.03775945,0.008064569,8,0.201045488,0.037415904,8,NA
+Amphilophus citrinellus ,61819,35,1,Torres-Dowdall et al. 2024,Cichlidae,sws2,sws2a,light,reared,30,30,S,0.268856516,0.030503916,8,0.066124962,0.057073387,8,NA
+Amphilophus citrinellus ,61819,35,1,Torres-Dowdall et al. 2024,Cichlidae,rh2,rh2b,light,reared,30,30,NS,0.001347488,0.002134923,8,0.085017513,0.106387803,8,NA
+Amphilophus citrinellus ,61819,35,1,Torres-Dowdall et al. 2024,Cichlidae,rh2,rh2ab,light,reared,30,30,S,0.381804504,0.03050083,8,0.344341202,0.063116035,8,NA
+Amphilophus citrinellus ,61819,35,1,Torres-Dowdall et al. 2024,Cichlidae,lws,lws,light,reared,30,30,NS,0.292857364,0.013611012,8,0.22407864,0.101867194,8,NA
+Amphilophus citrinellus ,61819,35,2,Torres-Dowdall et al. 2024,Cichlidae,sws1,sws1,hormone,reared,15,30,NS,0.002492883,0.003354284,8,0.063071917,0.080220782,8,NA
+Amphilophus citrinellus ,61819,35,2,Torres-Dowdall et al. 2024,Cichlidae,sws2,sws2b,hormone,reared,15,30,NS,0.0790569,0.021306034,8,0.201045488,0.037415904,8,NA
+Amphilophus citrinellus ,61819,35,2,Torres-Dowdall et al. 2024,Cichlidae,sws2,sws2a,hormone,reared,15,30,NS,0.227082631,0.031468462,8,0.066124962,0.057073387,8,NA
+Amphilophus citrinellus ,61819,35,2,Torres-Dowdall et al. 2024,Cichlidae,rh2,rh2b,hormone,reared,15,30,S,0.00050813,0.001437209,8,0.085017513,0.106387803,8,NA
+Amphilophus citrinellus ,61819,35,2,Torres-Dowdall et al. 2024,Cichlidae,rh2,rh2ab,hormone,reared,15,30,S,0.245398761,0.047439327,8,0.344341202,0.063116035,8,NA
+Amphilophus citrinellus ,61819,35,2,Torres-Dowdall et al. 2024,Cichlidae,lws,lws,hormone,reared,15,30,S,0.437911177,0.047194745,8,0.22407864,0.101867194,8,NA
+Cyprinella lutrensis,28791,36,1,Foster et al. 2024,Cyprinidae,lws,lws,light,reared,500,500,NS,0.227899417,0.131097564,4,0.165424258,0.026096573,4,NA
+Cyprinella lutrensis,28791,36,1,Foster et al. 2024,Cyprinidae,rh2,RH2A,light,reared,500,500,NS,0.204678921,0.131645765,4,0.119439537,0.061226626,4,NA
+Cyprinella lutrensis,28791,36,1,Foster et al. 2024,Cyprinidae,rh2,RH2B,light,reared,500,500,S,0.325352232,0.091568784,4,0.559153549,0.082024337,4,NA
+Cyprinella lutrensis,28791,36,1,Foster et al. 2024,Cyprinidae,sws2,SWS2,light,reared,500,500,NS,0.131919587,0.030158431,4,0.07968197,0.026859836,4,NA
+Cyprinella lutrensis,28791,36,1,Foster et al. 2024,Cyprinidae,sws1,SWS1,light,reared,500,500,NS,0.110149843,0.043304159,4,0.076300686,0.036719191,4,NA
